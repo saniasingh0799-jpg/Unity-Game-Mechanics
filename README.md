@@ -9,6 +9,7 @@ This repository contains small systems and experiments focused on understanding 
 * Jump System
 * Third Person Camera Follow
 * Damage Dealer
+* Idamagable
 
 ## Future Work
 
