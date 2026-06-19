@@ -8,6 +8,7 @@ This repository contains small systems and experiments focused on understanding 
 * WASD Player Movement
 * Jump System
 * Third Person Camera Follow
+* Damage Dealer
 
 ## Future Work
 
