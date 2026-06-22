@@ -12,6 +12,7 @@ This repository contains small systems and experiments focused on understanding 
 * Idamagable
 * Health System
 * Enemy Patrolling System
+* Mouse Sensitivity + Camera Controller
 
 ## Future Work
 
