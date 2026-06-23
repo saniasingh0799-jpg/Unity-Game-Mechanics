@@ -13,6 +13,8 @@ This repository contains small systems and experiments focused on understanding 
 * Health System
 * Enemy Patrolling System
 * Mouse Sensitivity + Camera Controller
+* Obstacle spawnner
+
 
 ## Future Work
 
