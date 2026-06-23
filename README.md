@@ -14,6 +14,7 @@ This repository contains small systems and experiments focused on understanding 
 * Enemy Patrolling System
 * Mouse Sensitivity + Camera Controller
 * Obstacle spawnner
+* Safe Zone
 
 
 ## Future Work
