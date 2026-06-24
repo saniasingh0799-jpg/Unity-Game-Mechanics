@@ -15,6 +15,7 @@ This repository contains small systems and experiments focused on understanding 
 * Mouse Sensitivity + Camera Controller
 * Obstacle spawnner
 * Safe Zone
+* Ui on hover effect
 
 
 ## Future Work
