@@ -17,7 +17,7 @@ This repository contains small systems and experiments focused on understanding 
 * Safe Zone
 * Ui on hover effect
 * Player movement while performing animations
-* 
+* Spawn system
 
 
 ## Future Work
