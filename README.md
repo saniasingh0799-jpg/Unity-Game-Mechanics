@@ -18,6 +18,8 @@ This repository contains small systems and experiments focused on understanding 
 * Ui on hover effect
 * Player movement while performing animations
 * Spawn system
+* Unity VFX Slash
+
 
 
 ## Future Work
