@@ -19,7 +19,8 @@ This repository contains small systems and experiments focused on understanding 
 * Player movement while performing animations
 * Spawn system
 * Unity VFX Slash
-* SoundOnActivation 
+* SoundOnActivation
+* Projectile
 
 
 ## Future Work
