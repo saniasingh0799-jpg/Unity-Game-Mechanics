@@ -22,6 +22,7 @@ This repository contains small systems and experiments focused on understanding 
 * SoundOnActivation
 * Projectile
 * Invisible Ability
+* Object spawn on input(wall spawn)
 
 
 ## Future Work
