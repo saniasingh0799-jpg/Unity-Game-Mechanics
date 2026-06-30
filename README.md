@@ -21,6 +21,7 @@ This repository contains small systems and experiments focused on understanding 
 * Unity VFX Slash
 * SoundOnActivation
 * Projectile
+* Invisible Ability
 
 
 ## Future Work
