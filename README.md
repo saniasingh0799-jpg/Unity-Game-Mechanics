@@ -24,6 +24,7 @@ This repository contains small systems and experiments focused on understanding 
 * Invisible Ability
 * Object spawn on input(wall spawn)
 * Ability manager
+* Sword slash
 
 
 ## Future Work
