@@ -5,7 +5,7 @@ using UnityEngine;
 public class SlashTest : MonoBehaviour
 {
     public Animator anim;
-    public List<Slash> slashes;   // assign your slash GameObjects in Inspector
+    public List<Slash> slashes;  
 
     private Fighter _fighter;
 
@@ -24,7 +24,6 @@ public class SlashTest : MonoBehaviour
 
         int currentStep = GetComboStep();
 
-        // Fire slash when combo step changes (new hit started)
         if (currentStep != _lastComboStep && currentStep > 0 && !_slashPlaying)
         {
             StopAllCoroutines();
@@ -35,11 +34,8 @@ public class SlashTest : MonoBehaviour
         _lastComboStep = currentStep;
     }
 
-    // Read comboStep via reflection-free public property
     int GetComboStep()
     {
-        // We track it by checking IsAttacking + which trigger fired
-        // Simpler: expose comboStep in Fighter as public
         return _fighter.ComboStep;
     }
 
@@ -47,7 +43,6 @@ public class SlashTest : MonoBehaviour
     {
         _slashPlaying = true;
 
-        // Pick which slash to show based on combo step
         int index = Mathf.Clamp(step - 1, 0, slashes.Count - 1);
 
         yield return new WaitForSeconds(slashes[index].delay);
