@@ -4,9 +4,7 @@ public class ThirdPersonMouseLook : MonoBehaviour
 {
     public Transform player;
     public Vector3 cameraOffset = new Vector3(0f, 2f, -4f);
-    
     public float lookAtHeightOffset = 1.4f;
-
     public float mouseSensitivity = 2f;
     public float minPitch = -25f;
     public float maxPitch = 60f;
